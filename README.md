@@ -1,0 +1,3 @@
+# HuffmanCoding
+### A java library to perform Lossless Compression 
+README Will be updated .... 
